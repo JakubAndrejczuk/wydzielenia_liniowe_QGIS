@@ -2,11 +2,11 @@
 
 Wtyczka QGIS do generowania **wydzieleń liniowych (z „~”)** na podstawie warstw SLMN oraz raportu BO.
 
-> **Przeznaczenie:**  
-> Wtyczka dedykowana dla pracowników **Lasów Państwowych**.
-> Do prawidłowego działania wtyczki wymagany jest **dostęp do bazy SILP**:
-> - SilpWeb > Mapa > Wymiana Danych
-> - SAP BO > Opis Taksacyjny
+## **Przeznaczenie:**  
+Wtyczka dedykowana dla pracowników **Lasów Państwowych**.
+Do prawidłowego działania wtyczki wymagany jest **dostęp do bazy SILP**:
+- SilpWeb > Mapa > Wymiana Danych
+- SAP BO > Opis Taksacyjny
 
 ---
 
