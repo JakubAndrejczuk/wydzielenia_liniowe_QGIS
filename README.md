@@ -1,2 +1,2 @@
-# wydzielenia_liniowe_QGIS
+# Wydzielenia liniowe
 Wtyczka QGIS do generowania wydzieleń liniowych (z ~).
