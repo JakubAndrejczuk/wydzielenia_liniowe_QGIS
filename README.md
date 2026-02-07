@@ -5,8 +5,8 @@ Wtyczka QGIS do generowania **wydzieleń liniowych (z „~”)** na podstawie wa
 > **Przeznaczenie:**  
 > Wtyczka dedykowana dla pracowników **Lasów Państwowych**.
 > Do prawidłowego działania wtyczki wymagany jest **dostęp do bazy SILP**:
- - SilpWeb > Mapa > Wymiana Danych
- - SAP BO > Opis Taksacyjny
+>> - SilpWeb > Mapa > Wymiana Danych
+>> - SAP BO > Opis Taksacyjny
 
 ---
 
