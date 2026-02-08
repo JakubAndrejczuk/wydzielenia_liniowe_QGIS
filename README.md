@@ -18,7 +18,7 @@ Do prawidłowego działania wtyczki wymagany jest **dostęp do bazy SILP**:
   - `a_line_lin.shp`
   - `a_kom_a.dbf`
   - `a_line_a.dbf`
-  - `a_oddz_pol`
+  - `a_oddz_pol.shp`
 - **raport BO** (zapisany w folderze osobistym użytkownika),
 - dostęp do środowiska/danych **SILP**.
 
