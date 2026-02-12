@@ -18,7 +18,7 @@ Do prawidłowego działania wtyczki wymagany jest **dostęp do bazy SILP**:
   - `a_line_lin.shp`
   - `a_kom_a.dbf`
   - `a_line_a.dbf`
-  - `a_oddz_pol.shp`
+  - `a_oddz_pol`
 - **raport BO** (zapisany w folderze osobistym użytkownika),
 - dostęp do środowiska/danych **SILP**.
 
@@ -68,4 +68,5 @@ Do prawidłowego działania wtyczki wymagany jest **dostęp do bazy SILP**:
 - **Autor:** Jakub Andrejczuk  
 - **E-mail:** jakub.andrejczuk@torun.lasy.gov.pl  
 
+Instrukcja wideo: `https://youtu.be/PSp9XU6YqU0`
 Repozytorium: `https://github.com/JakubAndrejczuk/wydzielenia_liniowe_QGIS`
