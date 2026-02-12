@@ -1,0 +1,13 @@
+[general]
+name=Wydzielenia liniowe
+description=Generowania wydzieleń liniowych na podstawie warstw SLMN i raportu BO
+about=<p><i>Wtyczka dedykowana dla pracowników Lasów Państwowych - wymagany dostęp do bazy SILP!</i></p><p>Wtyczka służy do generowania wydzieleń liniowych (z ~) na podstawie warstw SLMN <i>(a_kom_lin.shp, a_line_lin.shp, a_kom_a.dbf, a_line_a.dbf, a_oddz_pol.shp)</i> oraz raportu BO.</p> <p><b>Warstwy wejściowe:</b></p> <ul> <li><b>warstwy SLMN</b> – rozpakowany folder z warstwami SLMN pobrany z SilpWeb.</li> <li><b>raport BO</b> – plik dostępny pod <a href="https://bo.silp.lasy.gov.pl/BOE/OpenDocument/opendoc/openDocument.jsp?sIDType=CUID&iDocID=Abr0ZvOVoGhMorhG7KEZm3M">linkiem</a>.<i><br>Foldery publiczne &gt; 04 - Folder wymiany &gt; 97 - Foldery użytkowników &gt; QGIS<br><u>Przed uruchomieniem zapytania raport należy zapisać w folderze osobistym!</u></i></li> </ul> <p><b>Warstwy wynikowe:</b></p> <ul> <li><b>wydz_lin_seg</b> – obiekty z warstw <i>a_kom_lin</i> i <i>a_line_lin</i> z przypisanym adresem leśnym.</li> <li><b>wydz_lin_agreg</b> – obiekty zagregowane do adresu leśnego, z przypisaną powierzchnią z SILP.</li> </ul> <p><i><b>Uwaga!</b></i> Generowane są tylko obiekty, położone w granicach warstwy oddziałów leśnych (<i>a_oddz_pol</i>). Obiekty liniowe z przypisanym adresem leśnym leżące poza warstwą oddziałów nie są generowane. </p><p><a href="https://youtu.be/PSp9XU6YqU0">Instrukcja wideo</a></p>
+version=1.0
+qgisMinimumVersion=3.0
+author=Jakub Andrejczuk
+email=jakub.andrejczuk@torun.lasy.gov.pl
+tags= Lasy Państwowe,LMN,wydzielenia liniowe
+homepage=https://github.com/JakubAndrejczuk/wydzielenia_liniowe_QGIS
+tracker=https://github.com/JakubAndrejczuk/wydzielenia_liniowe_QGIS/issues
+repository=https://github.com/JakubAndrejczuk/wydzielenia_liniowe_QGIS
+icon=icon.png
